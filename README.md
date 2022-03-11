@@ -1,4 +1,4 @@
-# estudando_flutter
+# Entrada Sorveteria
 
 my first flutter app
 
